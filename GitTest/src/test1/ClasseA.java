@@ -12,7 +12,8 @@ public class ClasseA {
 	}
 
 	public void methodA2() {
-		
+		ClasseB b = new ClasseB();
+		b.methodB1();
 	}
 
 	public void methodA3() {
